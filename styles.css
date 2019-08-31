@@ -1,0 +1,11 @@
+.header{
+  background-image: url("http://merchantlane.com.au/wp-content/uploads/2018/04/pizza-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 30px 30px 30px 30px;
+}
+.logo{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
