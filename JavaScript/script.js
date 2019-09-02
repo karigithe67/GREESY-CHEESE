@@ -26,7 +26,7 @@ const sizeList = {name:"Sizes", items:[large, medium, small]};
 const thinCrust = {name:"Thin Crust", price:100};
 const thickCrust = {name:"Thick Crust", price: 150};
 const deepCrust = {name:"Deep Crust", price:200};
-const cheeseCrust = {name:"Cheese Crust", price:150};
+const cheeseCrust = {name:"Cheese Crust", price:210};
 const stuffedCrust = {name: "Stuffed Crust", price: 250};
 const crustsList = {name:"Crusts", items:[thinCrust,thickCrust,deepCrust,cheeseCrust,stuffedCrust]};
 
