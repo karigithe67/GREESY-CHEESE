@@ -9,3 +9,75 @@
   padding-top: 5px;
   padding-bottom: 5px;
 }
+.size {
+  margin-top: 50px;
+  text-align: justify;
+}
+body{
+  background-color: bisque;
+}
+nav ul{
+  margin: 0;
+  padding: 0;
+  list-style:none;
+}
+nav li{
+  display: inline-block;
+  margin-left: 70px;
+  padding: 25px;
+  position: relative;
+}
+nav a{
+  text-decoration: none;
+  color: maroon;
+  font-size: 20px;
+}
+nav a:hover{
+  background-color: black;
+}
+.container{
+  text-align: center;
+}
+
+.what{
+  padding-top: 70px;
+  text-align: center;
+}
+.media{
+  margin-top: 70px;
+  padding-left: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-content: unset;
+}
+.footer{
+  text-align: center;
+  margin-top: 20px;
+}
+.Toppings{
+  text-align: center;
+  padding: 15px;
+}
+
+.crust{
+  text-align: center;
+}
+
+.slices{
+  text-align: center;
+  padding-bottom: 15px;
+}
+.size{
+  text-align: center;
+}
+.count{
+  text-align: center;
+}
+.delivery{
+  text-align: center;
+}
+.checkout{
+  text-align: center;
+  margin-top: 10px;
+}
