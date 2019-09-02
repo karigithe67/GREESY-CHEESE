@@ -1,9 +1,9 @@
 
-const pepperoni = {name:"Pepperoni", price: 100};
+const pepperoni = {name:"Pepperoni", price: 150};
 const onions = {name:"Onions", price: 50};
 const sausage = {name:"Sausage", price: 100};
-const bellPepper = {name: "Bell Pepper", price: 50};
-const bbqSauce = {name:"Barbecue Sauce", price: 50};
+const bellPepper = {name: "Bell Pepper", price: 90};
+const bbqSauce = {name:"Barbecue Sauce", price: 100};
 const chicken = {name:"Chicken", price:150};
 const cheddarCheese = {name:"Cheddar Cheese", price:50};
 const mozzarellaCheese = {name:"Mozzarella Cheese", price:50};
@@ -24,7 +24,7 @@ const sizeList = {name:"Sizes", items:[large, medium, small]};
 
 
 const thinCrust = {name:"Thin Crust", price:70};
-const thickCrust = {name:"Thick Crust", price: 100};
+const thickCrust = {name:"Thick Crust", price: 150};
 const deepCrust = {name:"Deep Crust", price:100};
 const cheeseCrust = {name:"Cheese Crust", price:150};
 const stuffedCrust = {name: "Stuffed Crust", price: 250};
