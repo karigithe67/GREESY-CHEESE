@@ -23,7 +23,7 @@ const small = {name: "Small Size", price: 400};
 const sizeList = {name:"Sizes", items:[large, medium, small]};
 
 
-const thinCrust = {name:"Thin Crust", price:70};
+const thinCrust = {name:"Thin Crust", price:100};
 const thickCrust = {name:"Thick Crust", price: 150};
 const deepCrust = {name:"Deep Crust", price:100};
 const cheeseCrust = {name:"Cheese Crust", price:150};
