@@ -46,22 +46,22 @@ nav a:hover{
 .media{
   margin-top: 70px;
   padding-left: 20px;
-  text-align: center;
+  text-align: left;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-content: unset;
 }
 .footer{
-  text-align: center;
+  text-align: left;
   margin-top: 20px;
 }
 .Toppings{
-  text-align: center;
+  text-align:left;
   padding: 15px;
 }
 
 .crust{
-  text-align: center;
+  text-align: left;
 }
 
 .slices{
@@ -69,15 +69,15 @@ nav a:hover{
   padding-bottom: 15px;
 }
 .size{
-  text-align: center;
+  text-align: left;
 }
 .count{
-  text-align: center;
+  text-align: left;
 }
 .delivery{
-  text-align: center;
+  text-align: left;
 }
 .checkout{
-  text-align: center;
+  text-align: left;
   margin-top: 10px;
 }
