@@ -5,7 +5,7 @@
 #### Author By: JEFF K KARIGITHE.
 +254795534212.
 cephalo67@Gmail.com
-karigithe67/https-github.com-new
+https://github.com/karigithe67/GREESY-CHEESE
 
 ## Description
 GREESY CHEESE is a online web application where you can order food from home such as salads and pizza. From different kinds of toppings you can also throw in some drinks or beverages to be delivered at your current location. At greesy cheese, we also give our reliable customers a free "double-double bonanza" of a free meal every Thursday depending on what you have spent. Happy hours on every Saturdays starting from 9 o'clock in the morning.
